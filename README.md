@@ -1,9 +1,8 @@
-[![pre-commit Status](https://github.com/sblask/webextension-simple-form-fill/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/sblask/webextension-simple-form-fill/actions/workflows/pre-commit.yml)
 
 Simple Form Fill
 ================
 Enter text into input fields by choosing configured items from the context menu
-or using the optional autocomplete (not autofill) which suggest items based on
+ which suggest items based on
 typed input.
 
 New items can be added through the context menu while having some text selected
